@@ -2,6 +2,6 @@
 
 ```
 curl -s --compressed "https://raw.githubusercontent.com/Daniele-rolli/Beaver-notes-ppa/main/beaver-ppa/KEY.gpg?token=GHSAT0AAAAAACGZGYDIAVSDVJWROPXNUFX6ZHKNNDQ" | gpg --dearmor | sudo tee /etc/apt/trusted.gpg.d/Beaver-notes-ppa.gpg >/dev/null
-sudo curl -s --compressed -o /etc/apt/sources.list.d/Beaver_notes_file.list "https://raw.githubusercontent.com/Daniele-rolli/Beaver-notes-ppa/main/beaver-ppa/Beaver_notes_file.list?token=GHSAT0AAAAAACGZGYDJL6Z47I5Y4HXGIQDMZHKNOQQ"
+sudo curl -s --compressed -o /etc/apt/sources.list.d/Beaver_notes_file.list "https://raw.githubusercontent.com/Daniele-rolli/Beaver-notes-ppa/main/beaver-ppa/Beaver_notes_file.list?token=GHSAT0AAAAAACGZGYDJPY3P4AAUMBNL62XUZHKNPYA"
 sudo apt update
 ```
