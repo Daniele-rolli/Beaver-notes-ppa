@@ -1,1 +1,1 @@
-deb [signed-by=/etc/apt/trusted.gpg.d/Beaver-notes-ppa.gpg] https://github.com/Daniele-rolli/Beaver-notes-ppa/tree/main/beaver-ppa ./
+deb [signed-by=/etc/apt/trusted.gpg.d/Beaver-notes-ppa.gpg] https://daniele-rolli.github.io/Beaver-notes-ppa/ ./
