@@ -1,5 +1,5 @@
 # Beaver-notes-ppa
-Welcome to the Official PPA page of Beaver Notes. This PPA serves as a milestone in the effort of making Beaver Notes easily accessible for everyone. Starting today (August 27, 2023), Beaver Notes will be available as a package through apt for Debian and Debian-based distributions.
+Welcome to the Official PPA of Beaver Notes. This PPA serves as a milestone in the effort of making Beaver Notes easily accessible for everyone. Starting today (August 27, 2023), Beaver Notes will be available as a package through apt for Debian and Debian-based distributions.
 
 To install Beaver Notes through apt, first uninstall any previous version of Beaver Notes. Don't worry, uninstalling won't delete your notes. Feel free to back them up by exporting them if you want an extra safety net. After that, run the commands below.
 
