@@ -38,15 +38,15 @@ Vendor: Daniele Rolli <danielerolli@proton.me>
 
 Package: beaver-notes
 Version: 0.0.8
-Architecture: amd64
+Architecture: arm64
 Maintainer: Daniele Rolli <danielerolli@proton.me>
-Installed-Size: 488533
+Installed-Size: 503494
 Depends: libgtk-3-0, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, libatspi2.0-0, libuuid1, libappindicator3-1, libsecret-1-0
-Filename: ./Beaver-notes_0.0.8_amd64.deb
-Size: 100370174
-MD5sum: 3b996a0519237ad498978dd3dee9d9da
-SHA1: f2d2fff67b9d3db4f8e0eb265ab52f439c4b42e2
-SHA256: 2ebef33644340f8eb66d571d0bfa38a45b0d97bdfcebe8a48cd8bc2d3cfc45c9
+Filename: ./Beaver-notes_0.0.8_arm64.deb
+Size: 97691680
+MD5sum: a3636ffcbabe6558d266fb0226b45133
+SHA1: f5e27a02848f02a2675d7c0908f770a9268f3847
+SHA256: 1bb53b0486853b3fdee4e818eaac32f83157712ef95c74cfb759ea0233a15d1f
 Section: default
 Priority: optional
 Homepage: https://beavernotes.com
@@ -57,15 +57,15 @@ Vendor: Daniele Rolli <danielerolli@proton.me>
 
 Package: beaver-notes
 Version: 0.0.8
-Architecture: arm64
+Architecture: amd64
 Maintainer: Daniele Rolli <danielerolli@proton.me>
-Installed-Size: 503431
+Installed-Size: 488596
 Depends: libgtk-3-0, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, libatspi2.0-0, libuuid1, libappindicator3-1, libsecret-1-0
-Filename: ./Beaver-notes_0.0.8_arm64.deb
-Size: 97651668
-MD5sum: 242efdb7f5036a9fc1642d8cd0964f33
-SHA1: 91243f960752cb9edfac0ecb08ccbebbdba643c7
-SHA256: f8a196a9ef433219822c03685325f10633b8f0e5baa9d49dba89e88ae68e1b3b
+Filename: ./Beaver-notes_0.0.8_amd64.deb
+Size: 100426278
+MD5sum: 75b5fc162e92dcd8befca8bc99cf0933
+SHA1: 51f0967e163032f530a825c0dcf472839f3cc822
+SHA256: 85860f25c8881a3531673a0bb0f73e18c12a29f22d78f38aa3f29a38ea2e9220
 Section: default
 Priority: optional
 Homepage: https://beavernotes.com
