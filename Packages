@@ -74,3 +74,41 @@ Description:
 License: MIT
 Vendor: Daniele Rolli <danielerolli@proton.me>
 
+Package: beaver-notes
+Version: 1.0.0
+Architecture: arm64
+Maintainer: Daniele Rolli <danielerolli@proton.me>
+Installed-Size: 503352
+Depends: libgtk-3-0, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, libatspi2.0-0, libuuid1, libappindicator3-1, libsecret-1-0
+Filename: ./Beaver-notes_1.0.0_arm64.deb
+Size: 97577572
+MD5sum: 4c82c794284d65ff87ba65f1a84b0a38
+SHA1: aed6f076f365da0cd29a38ea685c827c649a5bfe
+SHA256: 2b0b6229ec7696ff450281ed11541190483890d33e91d28f7f4b4e6f4a2dae9b
+Section: default
+Priority: optional
+Homepage: https://beavernotes.com
+Description:
+  Your Personal Note-Taking Haven for Privacy and Efficiency
+License: MIT
+Vendor: Daniele Rolli <danielerolli@proton.me>
+
+Package: beaver-notes
+Version: 1.0.0
+Architecture: amd64
+Maintainer: Daniele Rolli <danielerolli@proton.me>
+Installed-Size: 488454
+Depends: libgtk-3-0, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, libatspi2.0-0, libuuid1, libappindicator3-1, libsecret-1-0
+Filename: ./Beaver-notes_1.0.0_amd64.deb
+Size: 100325952
+MD5sum: 832601e0c628ae7efa92c6021e0d1517
+SHA1: e4fc77f0eee95a4fac4b4776b854e506b5228420
+SHA256: b0be91e5e21e2f6c17f26f9b5381e80cf530f7eca8c565863eb1deb335847181
+Section: default
+Priority: optional
+Homepage: https://beavernotes.com
+Description:
+  Your Personal Note-Taking Haven for Privacy and Efficiency
+License: MIT
+Vendor: Daniele Rolli <danielerolli@proton.me>
+
