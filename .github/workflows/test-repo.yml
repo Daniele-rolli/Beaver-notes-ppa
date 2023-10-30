@@ -1,4 +1,4 @@
-name: Test Beaver APT Repository and Installation
+name: Test APT Repository and Installation
 
 on: [push]
 
@@ -35,3 +35,8 @@ jobs:
         run: |
           # You can add commands to verify if the application is correctly installed
           # Example: which beaver-notes
+
+      - name: Notify on Failure
+        run: |
+          # You can add code to send an email or notification if the installation or checks fail
+          # Example: sendmail your-email@example.com -s "APT Repository Installation Failed" -t "Error: Installation failed."
