@@ -1,0 +1,37 @@
+name: Test Beaver APT Repository and Installation
+
+on: [push]
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check Out Code
+        uses: actions/checkout@v2
+
+      - name: Install Dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y apt-transport-https
+
+      - name: Fetch Repository GPG Key
+        run: |
+          curl -s --compressed https://daniele-rolli.github.io/Beaver-notes-ppa/KEY.gpg | gpg --dearmor | sudo tee /etc/apt/trusted.gpg.d/Beaver-notes-ppa.gpg >/dev/null
+
+      - name: Add Beaver Notes Repository Source
+        run: |
+          sudo curl -s --compressed -o /etc/apt/sources.list.d/Beaver_notes_file.list https://daniele-rolli.github.io/Beaver-notes-ppa/Beaver_notes_file.list
+
+      - name: Update Package Lists
+        run: |
+          sudo apt update
+
+      - name: Install Beaver Notes
+        run: |
+          sudo apt install beaver-notes
+
+      - name: Check Installation
+        run: |
+          # You can add commands to verify if the application is correctly installed
+          # Example: which beaver-notes
