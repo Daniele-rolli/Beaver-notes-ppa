@@ -42,13 +42,13 @@ Package: beaver-notes
 Version: 2.3.0
 Architecture: amd64
 Maintainer: Daniele Rolli <danielerolli@proton.me>
-Installed-Size: 226808
+Installed-Size: 235607
 Depends: libgtk-3-0, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, libatspi2.0-0, libuuid1, libappindicator3-1, libsecret-1-0
 Filename: ./Beaver-notes_2.3.0_amd64.deb
-Size: 61062740
-MD5sum: f38d6576e21249a865222b2affe528fa
-SHA1: e145ac179cabc3e6976bdbeb8e36445a2d3b6bb0
-SHA256: 5dff77d6741887fdb13b74cdeb17b2b322d9bae260000fb674c6c08bee72bcbc
+Size: 62129666
+MD5sum: e500f22e31a7bb3a296e4d42a0ae7158
+SHA1: 31d700222bd2290f2e517f323a35f0a1308eb90b
+SHA256: 950efe41b99a8f0eb74065aedceb0b0518e5952553b64ee86127a83a4280e7f5
 Section: default
 Priority: optional
 Homepage: https://beavernotes.com
@@ -61,13 +61,13 @@ Package: beaver-notes
 Version: 2.3.0
 Architecture: arm64
 Maintainer: Daniele Rolli <danielerolli@proton.me>
-Installed-Size: 241705
+Installed-Size: 250505
 Depends: libgtk-3-0, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, libatspi2.0-0, libuuid1, libappindicator3-1, libsecret-1-0
 Filename: ./Beaver-notes_2.3.0_arm64.deb
-Size: 61211280
-MD5sum: a9b594e7b1b5176d05d7157971fef51d
-SHA1: 423518bca9887e85a08473e5c27bfa3fcefa00f7
-SHA256: f6d38bd7ad4f506523103cdf23f4e78ed43285ee2d40d191e691daf879c7d5ae
+Size: 59327270
+MD5sum: eef3c1f02052f9fcc8b8fcfce8c63c12
+SHA1: a3552d297a589c20e5cd8d5993b25924d6e7204e
+SHA256: 8838cde736844db9aa14aca20ac2f969daddf6ad8464eafa9f02cb86a519152e
 Section: default
 Priority: optional
 Homepage: https://beavernotes.com
