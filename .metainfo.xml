@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<component>
+  <id>beaver-notes</id>
+  <name>Beaver Notes</name>
+  <summary>Your Personal Note-Taking Haven for Privacy and Efficiency</summary>
+  <description>
+    <![CDATA[
+      Welcome to Beaver Notes, a privacy-focused note-taking application for Mac OS, Windows and GNU/Linux. With Beaver Notes, your notes are securely stored on your device, ensuring complete privacy and control over your data.
+    ]]>
+  </description>
+</component>
