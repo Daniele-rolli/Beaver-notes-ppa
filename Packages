@@ -42,14 +42,14 @@ Package: beaver-notes
 Version: 3.0.0
 Architecture: amd64
 Maintainer: Daniele Rolli <danielerolli@proton.me>
-Installed-Size: 272876
+Installed-Size: 272646
 Depends: libgtk-3-0, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, libatspi2.0-0, libuuid1, libsecret-1-0
 Recommends: libappindicator3-1
 Filename: ./Beaver-notes_3.0.0_amd64.deb
-Size: 77154958
-MD5sum: fe46d0cda9b2cacb8b2943b6ce446d1c
-SHA1: 656221c44a43a21436e91145f0383ef1fc1fc24b
-SHA256: db3a260968a3a67802f71b76dd43242209ee330fee576bc15dc9b01106a885d6
+Size: 77181356
+MD5sum: c1f2db753097a2b11c105e1b3b063ad9
+SHA1: 0305252d3db3cd1feab323c6e86f04092ac69cd9
+SHA256: 789f9c048c621a292849e9db3725085487437f1f0f16a077fc9295fa184b178d
 Section: default
 Priority: optional
 Homepage: https://beavernotes.com
@@ -62,14 +62,14 @@ Package: beaver-notes
 Version: 3.0.0
 Architecture: arm64
 Maintainer: Daniele Rolli <danielerolli@proton.me>
-Installed-Size: 278899
+Installed-Size: 278669
 Depends: libgtk-3-0, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, libatspi2.0-0, libuuid1, libsecret-1-0
 Recommends: libappindicator3-1
 Filename: ./Beaver-notes_3.0.0_arm64.deb
-Size: 72248340
-MD5sum: 70c100af32a389fa0c2c334574533dc2
-SHA1: 704db696d0b2ec5adae199dd9e2fc417694fa66f
-SHA256: 90a2e14ef17dcc0398071ecc793e21c2c15473bd97e9fa76da9e242fc3c5ff7b
+Size: 72305598
+MD5sum: 4138e1bd43300261a5c249d8459fd46b
+SHA1: 0a9af6be8380e825484018c38338ad59b7118482
+SHA256: da87890a080aa6fa24b0bd904e5385fb5c9ea719fbdd1540de6b5416cc1ae4c8
 Section: default
 Priority: optional
 Homepage: https://beavernotes.com
