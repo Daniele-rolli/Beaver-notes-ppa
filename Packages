@@ -46,10 +46,10 @@ Installed-Size: 277867
 Depends: libgtk-3-0, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, libatspi2.0-0, libuuid1, libsecret-1-0
 Recommends: libappindicator3-1
 Filename: ./Beaver-notes_3.1.1_arm64.deb
-Size: 72144272
-MD5sum: b118293f6897706dae3d7eaceafbb2ce
-SHA1: ec95981ed3f5798eb090c71b77d4fd5395c2cad6
-SHA256: 6f5158fff8c1af307f470b5d73199c601684b623b760d9504729fa9d48180723
+Size: 72144392
+MD5sum: 1410f42101d698d72aa0fd7264352e3f
+SHA1: a9d96cf5573a454ef7033985fdf32f37df91dc24
+SHA256: efca47e2c6ce772ecd0c3188eab1c4a3ece8ec29fb935d60e86bda98babb6c90
 Section: default
 Priority: optional
 Homepage: https://beavernotes.com
@@ -66,10 +66,10 @@ Installed-Size: 271844
 Depends: libgtk-3-0, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, libatspi2.0-0, libuuid1, libsecret-1-0
 Recommends: libappindicator3-1
 Filename: ./Beaver-notes_3.1.1_amd64.deb
-Size: 77038860
-MD5sum: c9c814938a881870b032dd81785c2f4b
-SHA1: 07f31355111122d232bca28e8baef93d906b3ab8
-SHA256: 6376480c20fa130862e68ad244431032e894b95c9e18dca803bceff3e3b6c633
+Size: 77048726
+MD5sum: c58f0ca7770acddc69a08ff3f5580322
+SHA1: 90089dc64a46b2c08a874c1c6231a3e361e68d41
+SHA256: 7113b1fdacb1b036cdc6757beb7e7186e37dd5f819194b0747b67109868bed7d
 Section: default
 Priority: optional
 Homepage: https://beavernotes.com
