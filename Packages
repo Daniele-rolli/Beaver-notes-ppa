@@ -1,15 +1,15 @@
 Package: beaver-notes
-Version: 3.3.0
+Version: 3.4.0
 Architecture: arm64
 Maintainer: Daniele Rolli <danielerolli@proton.me>
 Installed-Size: 297658
 Depends: libgtk-3-0, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, libatspi2.0-0, libuuid1, libsecret-1-0
 Recommends: libappindicator3-1
-Filename: ./beaver-notes_3.3.0_arm64.deb
-Size: 76212064
-MD5sum: 4952b4121287c29664f7f32b31f7ef97
-SHA1: 59b1063636d87e74d63dde39df9efd3194f490e3
-SHA256: 30f42188006c3e015ece1bf27be5746eae9f4dbf47365a1949b14624623df145
+Filename: ./Beaver-notes_3.4.0_arm64.deb
+Size: 76201404
+MD5sum: c4c2528cde36cdd98b533a9201ab53a6
+SHA1: 9d77c46a3ca43f89b8ffda4aa2f310346f758e93
+SHA256: c0531e7898b2e6a7fe0031101ceb4c3f46901cadd73fbc72558ce8f97fe23bcd
 Section: default
 Priority: optional
 Homepage: https://beavernotes.com
@@ -19,17 +19,17 @@ License: MIT
 Vendor: Daniele Rolli <danielerolli@proton.me>
 
 Package: beaver-notes
-Version: 3.3.0
+Version: 3.4.0
 Architecture: amd64
 Maintainer: Daniele Rolli <danielerolli@proton.me>
 Installed-Size: 291635
 Depends: libgtk-3-0, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, libatspi2.0-0, libuuid1, libsecret-1-0
 Recommends: libappindicator3-1
-Filename: ./beaver-notes_3.3.0_amd64.deb
-Size: 81244794
-MD5sum: f820d6f1977608d8f686ca164751392d
-SHA1: d379565a56c0184de8285381b5fcdaf5aff98107
-SHA256: 878af68abd6e85fdb38c5748775138aeb196606485390e0b8211b8e7e11db7e7
+Filename: ./Beaver-notes_3.4.0_amd64.deb
+Size: 81249352
+MD5sum: 6bf44272734f54b3b1846646a93e11fc
+SHA1: 128c67a3bbf4ace7a9bdb0c29c3c229ba4b0e2d7
+SHA256: 79d8ea579708dbe2a6fdf5f1d7f6870d9932072153c13e60e490ab080046c317
 Section: default
 Priority: optional
 Homepage: https://beavernotes.com
